@@ -13,7 +13,7 @@ namespace REFF
     public class MainPlugin : Plugin<Config>
     {
         public override string Name => "REFF";
-        public override string Author => "Galabeam (originally Thunder, formerly Kognity)";
+        public override string Author => "Galabeam (formerly Thunder, originally Kognity)";
         public override Version Version => new(1, 0, 0);
         public override Version RequiredExiledVersion => new(8, 8, 0);
         public override PluginPriority Priority => PluginPriority.Low;
