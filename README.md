@@ -1,3 +1,3 @@
 # REFF
 
-Enables FriendlyFire at the end of the round with configurable events.
+Enables FriendlyFire and allows items/classes to be given at the end of a round.
